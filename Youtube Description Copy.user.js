@@ -2,10 +2,9 @@
 // @name         Youtube Description Copy
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  A fresh intro
 // @author       Me
 // @match        https://www.youtube.com/watch?v=*
-// @match        http://127.0.0.1:5500/index.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @run-at       document-start
 // @grant        none
